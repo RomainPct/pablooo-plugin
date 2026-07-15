@@ -4,9 +4,11 @@
   "description": "Search and benchmark real app screenshots from Pablooo.club.",
   "author": {
     "name": "Romain Penchenat",
+    "email": "romain.penchenat@gmail.com",
     "url": "https://romainpenchenat.com"
   },
   "homepage": "https://pablooo.club/mcp",
+  "repository": "https://github.com/RomainPct/pablooo-plugin",
   "keywords": [
     "design",
     "screenshots",
@@ -17,7 +19,7 @@
     "displayName": "Pablooo.club",
     "shortDescription": "Benchmark real app screens.",
     "longDescription": "Search Pablooo.club's library of iOS, Android, and web app screenshots to benchmark product UI patterns.",
-    "developerName": "Pablooo.club",
+    "developerName": "Romain Penchenat",
     "category": "Design",
     "capabilities": [
       "Screenshot search",
