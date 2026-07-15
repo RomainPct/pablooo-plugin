@@ -1,0 +1,17 @@
+{
+  "name": "pablooo",
+  "owner": {
+    "name": "Romain Penchenat",
+    "email": "romain.penchenat@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "pablooo",
+      "source": {
+        "source": "github",
+        "repo": "RomainPct/pablooo-plugin"
+      },
+      "description": "Search and benchmark real app screenshots from Pablooo.club."
+    }
+  ]
+}
