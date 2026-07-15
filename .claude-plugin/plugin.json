@@ -1,0 +1,35 @@
+{
+  "name": "pablooo",
+  "version": "1.0.0",
+  "description": "Search and benchmark real app screenshots from Pablooo.club.",
+  "author": {
+    "name": "Romain Penchenat",
+    "url": "https://romainpenchenat.com"
+  },
+  "homepage": "https://pablooo.club/mcp",
+  "keywords": [
+    "design",
+    "screenshots",
+    "benchmarking",
+    "mcp"
+  ],
+  "interface": {
+    "displayName": "Pablooo.club",
+    "shortDescription": "Benchmark real app screens.",
+    "longDescription": "Search Pablooo.club's library of iOS, Android, and web app screenshots to benchmark product UI patterns.",
+    "developerName": "Pablooo.club",
+    "category": "Design",
+    "capabilities": [
+      "Screenshot search",
+      "Interactive carousel"
+    ],
+    "websiteURL": "https://pablooo.club",
+    "defaultPrompt": [
+      "Show mobile paywall screenshots with lifetime offers.",
+      "Find checkout confirmation screens to compare order-summary layouts.",
+      "Show desktop SaaS pricing page screenshots."
+    ],
+    "logo": "./assets/logo.png"
+  },
+  "mcpServers": "./.mcp.json"
+}
